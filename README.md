@@ -75,7 +75,7 @@ Si confirma la eliminación, la historia será eliminada del diario.
 Para salir del programa, seleccione la opción "Terminar programa" ingresando el número correspondiente en el menú.
 El programa se cerrará y finalizará su ejecución.
 
-=================================================================================================
+================================================================
 
 **Repita estos pasos según sea necesario para que el programa funcione como lo desea**
 
