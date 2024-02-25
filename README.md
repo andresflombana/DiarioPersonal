@@ -38,7 +38,45 @@ No se requiere instalación adicional para este programa.
 ```
 Para usar este programa de manera efectiva, el usuario podría seguir estos pasos:
 ```
-=============================================================================
+**Inicio del Programa:**
+
+Ejecute el programa DiarioPersonal desde su entorno de desarrollo (por ejemplo, NetBeans) o desde la línea de comandos.
+Una vez ejecutado, el programa mostrará un menú de opciones en la consola.
+
+* Agregar una Historia:
+
+Seleccione la opción "Agregar una historia" ingresando el número correspondiente en el menú.
+Se le pedirá que ingrese la descripción de la historia.
+Puede escribir la descripción de la historia y presionar "Enter" para saltar a la siguiente línea sin enviar la historia.
+Después de ingresar la descripción, la historia será agregada automáticamente al diario con un ID único y la fecha actual.
+
+* Consultar una Historia:
+
+Seleccione la opción "Consultar historia" ingresando el número correspondiente en el menú.
+Se mostrará una lista de todas las historias registradas en el diario, incluyendo su ID, fecha y descripción.
+
+* Modificar una Historia:
+
+Seleccione la opción "Modificar una historia" ingresando el número correspondiente en el menú.
+Se mostrará una lista de todas las historias registradas en el diario, incluyendo su ID, fecha y descripción.
+Ingrese el ID de la historia que desea modificar cuando se le solicite.
+Luego, ingrese la nueva descripción para la historia seleccionada.
+La descripción de la historia seleccionada será actualizada con la nueva descripción proporcionada.
+
+* Eliminar una Historia:
+
+Seleccione la opción "Eliminar una historia" ingresando el número correspondiente en el menú.
+Se mostrará una lista de todas las historias registradas en el diario, incluyendo su ID, fecha y descripción.
+Ingrese el ID de la historia que desea eliminar cuando se le solicite.
+Se le pedirá una confirmación antes de eliminar la historia.
+Si confirma la eliminación, la historia será eliminada del diario.
+
+* Terminar el Programa:
+
+Para salir del programa, seleccione la opción "Terminar programa" ingresando el número correspondiente en el menú.
+El programa se cerrará y finalizará su ejecución.
+
+=================================================================================================
 
 **Repita estos pasos según sea necesario para que el programa funcione como lo desea**
 
