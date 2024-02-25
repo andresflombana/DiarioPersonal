@@ -89,7 +89,7 @@ Este programa es de uso local y no requiere despliegue en un sistema en vivo.
 
 ## Construido con
 
-Este programa fue construido con Java
+Este programa fue construido con Java (IDE: NetBeans)
 
 ## Autor/es
 
