@@ -47,7 +47,6 @@ Una vez ejecutado, el programa mostrará un menú de opciones en la consola.
 
 Seleccione la opción "Agregar una historia" ingresando el número correspondiente en el menú.
 Se le pedirá que ingrese la descripción de la historia.
-Puede escribir la descripción de la historia y presionar "Enter" para saltar a la siguiente línea sin enviar la historia.
 Después de ingresar la descripción, la historia será agregada automáticamente al diario con un ID único y la fecha actual.
 
 * Consultar una Historia:
